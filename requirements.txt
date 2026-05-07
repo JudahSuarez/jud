@@ -1,0 +1,5 @@
+streamlit>=1.39,<2
+streamlit-webrtc>=0.48.1
+ultralytics-opencv-headless
+av
+tornado==6.4.2
